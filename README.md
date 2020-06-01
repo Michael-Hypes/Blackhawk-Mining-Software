@@ -1,2 +1,2 @@
 # Blackhawk-Mining-Software
-Automated Shift Reporting
+Automated Shift Reporting Software
